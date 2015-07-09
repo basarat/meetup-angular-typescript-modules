@@ -25,3 +25,4 @@ var MyAppComponent = (function () {
     ], MyAppComponent);
     return MyAppComponent;
 })();
+exports.MyAppComponent = MyAppComponent;
